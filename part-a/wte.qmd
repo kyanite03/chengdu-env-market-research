@@ -230,7 +230,7 @@ Defaults:
 -   **Price.** At A\$150/t, the plant fills easily: 81 councils in its first year (2030) plus commercial waste. But it loses money on every tonne (NPV −A\$218m, IRR 5.1%). Break-even is about A\$205/t. NPV peaks near A\$240/t (+A\$138m, IRR 9.6%, payback 10 years). At that price councils prefer landfill, and the plant runs at 89% on Melbourne commercial waste. A plant priced for profit therefore depends on commercial customers, not council contracts \[Inferred\].
 -   **The licence is the binding constraint.** Without a partner's licence, only 150,000 t is available and the plant cannot pay (NPV −A\$99m). With HiQ's 750,000 t, five furnaces are allowed but run about half-empty at A\$240/t (NPV +A\$96m, below the three-furnace case).
 -   **Policy can flip the answer.** If levy rises are only CPI (2.5% a year), NPV at A\$240/t falls to −A\$146m. Continued 10% rises lift it to +A\$489m.
--   **Market assumptions matter.** At a 20% switching threshold, NPV falls to −A\$240m; at a A\$70 landfill gate fee, to −A\$70m. Both are assumptions to test with councils (4.2).
+-   **Market assumptions matter.** At a 20% switching threshold, NPV falls to −A\$240m; at an A\$70 landfill gate fee, to −A\$70m. Both are assumptions to test with councils (4.2).
 
 ![](../assets/img/report-fig-2.png){fig-alt="Sensitivity of NPV at 240 dollars per tonne"}
 

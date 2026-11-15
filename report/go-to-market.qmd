@@ -146,7 +146,7 @@ CDEG moves up the ladder only where the risks allow.
 
 **Government support**
 
--   Federal finance has backed WA plants. Kwinana received CEFC debt and a A\$23m ARENA grant \[45, 84\], and Maryvale has a A\$48.2m federal grant ([licence-holder matrix](../part-b/approval-experience.qmd#licence-matrix)).
+-   Federal finance has backed WA plants. Kwinana received CEFC debt and an A\$23m ARENA grant \[45, 84\], and Maryvale has an A\$48.2m federal grant ([licence-holder matrix](../part-b/approval-experience.qmd#licence-matrix)).
 -   Victoria's main grant programs exclude thermal WtE. The Recycling Modernisation Fund covers material recovery only, and a proposal to open the Sustainability Fund to WtE was voted down 3–4. The A\$10m Bioenergy Fund may suit food-waste digestion \[7, 64\] [to verify]{.verify}.
 -   For CDEG, support mostly flows to owners, not operators. Its practical use is the organics fund for a FOGO pilot host, plus Invest Victoria and Austrade for introductions (6.4).
 
@@ -312,7 +312,7 @@ CDEG moves up the ladder only where the risks allow.
 
 *Source: [WtE market size](../part-a/wte.qmd#wte-market) and Model 1 \[26\]. Availability bonuses and penalties, and liability under guarantees, are not included (6.7, risk 12).*
 
-**Feasibility.** CDEG group revenue is about RMB 12.9bn \[18\], so a A\$9–10m entry budget is small for it. The real constraint is time. Until about 2030, the meter business (EBIT about A\$0.74m by its fifth year \[27\]), the pilots and technical services keep the team funded and visible. That is why the plan has two speeds.
+**Feasibility.** CDEG group revenue is about RMB 12.9bn \[18\], so an A\$9–10m entry budget is small for it. The real constraint is time. Until about 2030, the meter business (EBIT about A\$0.74m by its fifth year \[27\]), the pilots and technical services keep the team funded and visible. That is why the plan has two speeds.
 :::
 
 ::: {.zh}
@@ -385,7 +385,7 @@ CDEG moves up the ladder only where the risks allow.
 | Scenario | What happens | Effect on the plan | Signal |
 |---|---|---|---|
 | **A. Continuity** (base) | The cap stands; monitoring and transparency recommendations are accepted; plants move slowly | Roadmap as in 6.5 | Response accepts Recommendations 19 and 22 without a moratorium |
-| **B. Tightened** | WtE levy (a A\$20/t federal levy was proposed by the Greens in 2025), stricter buffers, mandatory real-time reporting | Fewer plants; operators with verified data gain. A A\$20/t levy lifts the owner's break-even by about A\$20/t | Levy in the 2027–28 Budget; buffer rules issued |
+| **B. Tightened** | WtE levy (an A\$20/t federal levy was proposed by the Greens in 2025), stricter buffers, mandatory real-time reporting | Fewer plants; operators with verified data gain. An A\$20/t levy lifts the owner's break-even by about A\$20/t | Levy in the 2027–28 Budget; buffer rules issued |
 | **C. Reset** | Contested projects scrapped, or the scheme paused | WtE track deferred; biosolids, organics and water tracks continue | Election result; Bulla decision; licences cancelled |
 :::
 :::
