@@ -1,5 +1,4 @@
-Code (the language toggle, styles, Observable JS models and build configuration)
-is released under the MIT License:
+MIT License:
 
 MIT License
 
@@ -22,11 +21,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-The report text, figures and data compilations are © 2026 Kai Marsh,
-Christine (Kuntong) Jiang and Janeika Jeyakanthan (NexStar 2026 CDEG–A team),
-all rights reserved. Cited third-party material remains with its owners.
-Vendored libraries in assets/vendor/ (D3, Observable Inputs, htl, KaTeX)
-are distributed under their own licences.

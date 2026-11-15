@@ -46,6 +46,9 @@ Kai Marsh · Christine (Kuntong) Jiang · Janeika Jeyakanthan. Section authorshi
 
 ---
 
+## Licence
+Code (the language toggle, styles, Observable JS models and build configuration) is released under the [MIT License](LICENSE). The report text, figures and data compilations are © 2026 Kai Marsh, Christine (Kuntong) Jiang and Janeika Jeyakanthan (NexStar 2026 CDEG–A team), all rights reserved. Cited third-party material remains with its owners. Vendored libraries in `assets/vendor/` (D3, Observable Inputs, htl, KaTeX) are distributed under their own licences.
+
 ## For the team: working on the site · 团队协作说明
 
 ### How it works · 工作流程
